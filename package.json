@@ -1,0 +1,27 @@
+{
+  "name": "escape-invisibles",
+  "version": "0.0.0",
+  "description": "My awesome module",
+  "license": "MIT",
+  "repository": "laat/escape-invisibles",
+  "author": {
+    "name": "Sigurd Fosseng",
+    "email": "sigurd@fosseng.net",
+    "url": "https://github.com/laat"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "readme-assert"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "laat"
+  ],
+  "devDependencies": {
+    "readme-assert": "^4.0.2"
+  }
+}
